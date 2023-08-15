@@ -4,7 +4,7 @@ import './Home.css'
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 
-import Video from './../../Assets/Videos/videoHome.mp4'
+import Video from './../../Assets/Videos/videoHome3.mp4'
 import image1 from './../../Assets/Images/popular-image1.jpg'
 import image2 from './../../Assets/Images/popular-image2.jpg'
 import image3 from './../../Assets/Images/popular-image3.jpg'

@@ -115,7 +115,7 @@ const Destinations = () => {
 
             <div className='inputField flex'>
               <BsFillCalendarDateFill className='icon'/>
-              <input type='text' placeholder='Date' />
+              <input type='date' placeholder='Date' />
             </div>
           
             <button className='btn flex'> <BiSearchAlt className='icon' />Search</button>
