@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/travel-booking/static/css/main.74f8b71e.css",
+    "main.js": "/travel-booking/static/js/main.0831f4f9.js",
+    "static/media/image7.jpg": "/travel-booking/static/media/image7.d0ad2de438cfd67e16d0.jpg",
+    "static/media/image9.jpg": "/travel-booking/static/media/image9.a9cc181c4cd0f5c2b152.jpg",
+    "static/media/image8.jpg": "/travel-booking/static/media/image8.eb4c746fcf103e35b4f9.jpg",
+    "static/media/image1.jpg": "/travel-booking/static/media/image1.0d48d23930c46f025ee2.jpg",
+    "static/media/image3.jpg": "/travel-booking/static/media/image3.5db99364cf19bc12fba0.jpg",
+    "static/media/videoHome.mp4": "/travel-booking/static/media/videoHome.ccf606a7ea3cb43d4ba4.mp4",
+    "static/media/popular-image3.jpg": "/travel-booking/static/media/popular-image3.ee7dc2e2688abfbe9337.jpg",
+    "static/media/client-image4.jpg": "/travel-booking/static/media/client-image4.ba840327fee4f2c32c66.jpg",
+    "static/media/client-image3.jpg": "/travel-booking/static/media/client-image3.44ecfad2a6375fe64109.jpg",
+    "static/media/image5.jpg": "/travel-booking/static/media/image5.cb621a4b626a86262c73.jpg",
+    "static/media/imgDiv.jpg": "/travel-booking/static/media/imgDiv.faddd792fe39fe7da98a.jpg",
+    "static/media/popular-image1.jpg": "/travel-booking/static/media/popular-image1.a4ec8192adddf767e6ac.jpg",
+    "static/media/image2.jpg": "/travel-booking/static/media/image2.de3d622e5a136936b322.jpg",
+    "static/media/image6.jpg": "/travel-booking/static/media/image6.cf8224d60089164092cc.jpg",
+    "static/media/popular-image2.jpg": "/travel-booking/static/media/popular-image2.6db84d32df0d598c0c3b.jpg",
+    "static/media/client-image1.jpg": "/travel-booking/static/media/client-image1.bc130f63daeacfdc7b85.jpg",
+    "static/media/client-image2.jpg": "/travel-booking/static/media/client-image2.faeefd33c15724b0ef33.jpg",
+    "static/media/image.jpg": "/travel-booking/static/media/image.e5686c621bc9ebd26a65.jpg",
+    "static/media/image4.jpg": "/travel-booking/static/media/image4.71cefaad95843ddce3d5.jpg",
+    "static/media/popular-image4.jpg": "/travel-booking/static/media/popular-image4.9abd049d8cd017bcb99f.jpg",
+    "static/media/subscribe-image.png": "/travel-booking/static/media/subscribe-image.2497d64505b61d08756a.png",
+    "static/media/icon2.png": "/travel-booking/static/media/icon2.815c9bed6059b2942432.png",
+    "static/media/icon1.png": "/travel-booking/static/media/icon1.2d98ac31e5f4b8348f52.png",
+    "static/media/icon3.png": "/travel-booking/static/media/icon3.5395a82501c9c34ff0eb.png",
+    "index.html": "/travel-booking/index.html",
+    "main.74f8b71e.css.map": "/travel-booking/static/css/main.74f8b71e.css.map",
+    "main.0831f4f9.js.map": "/travel-booking/static/js/main.0831f4f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f8b71e.css",
+    "static/js/main.0831f4f9.js"
+  ]
+}
